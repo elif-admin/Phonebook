@@ -2,7 +2,7 @@ variable "git-name" {
   default = "elif-admin"
 }
 variable "git-token" {
-  default = "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"
+  default = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 variable "key-name" {
   default = "first-key"
